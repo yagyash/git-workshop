@@ -1,3 +1,3 @@
 <?php
-  this is openshift;
+  print "this is openshift";
   ?>
