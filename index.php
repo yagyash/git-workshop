@@ -1,3 +1,3 @@
 <?php
-  print "this is openshift 2";
+  print "some changes in openshift 2";
   ?>
